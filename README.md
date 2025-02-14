@@ -24,12 +24,12 @@ Topic Name : One-pass SIC Assembler
 
 執行:
 
-1. git clone ...
+1. git clone https://github.com/WBC-Justin/One-pass-SIC-Assembler.git
 2. open PowerShell
 3. input : ./SINCAM test -a 
    (輸出 test.obj, test.lst 和 test.stb)
 
-入下圖:
+如下圖:
 
 ![alt text](output.jpg)
 (ps : 南大圖書館電腦!!)
