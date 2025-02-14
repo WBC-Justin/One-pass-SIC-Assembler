@@ -32,4 +32,4 @@ Topic Name : One-pass SIC Assembler
 入下圖:
 
 ![alt text](output.jpg)
-(ps : 南大圖書館點腦!!)
+(ps : 南大圖書館電腦!!)
